@@ -15,17 +15,19 @@ Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilid
 
 [Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal) 
 
-[To-do app](https://github.com/jonathanbarsky/Todo-App)
-
-<img src="https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png" max-width=300 /> 
-
 [portafolio personal](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png) 
+
+[To-do app](https://github.com/jonathanbarsky/Todo-App)
 
 ![todo app](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png)
     
-[The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api) | [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
+[The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api) 
+
+![thmdb](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png) 
+
+[Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
  
-![thmdb](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png) | ![batatabit](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
+![batatabit](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
     
 
 ##Puedes encontrarme en
