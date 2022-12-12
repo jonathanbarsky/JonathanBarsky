@@ -14,13 +14,19 @@ Soy un desarrollador frontend apasionado en el aprendizaje continuo,
 Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilidades técnicas.
 
 - [Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal)
-  ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png)
+
+  ![portafolio personal|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png)
 - [To-do app](https://github.com/jonathanbarsky/Todo-App)
-  ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png) 
+- 
+  ![todo app|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png) 
+  
 - [The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api)
+  
   ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png)  
+  
 - [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
-- ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
+- 
+- ![batatabit|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
 
 ##Encuentrame en
 
