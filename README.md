@@ -15,7 +15,7 @@ Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilid
 
 [Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal) 
 
-[portafolio personal](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png) 
+![portafolio personal](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png) 
 
 [To-do app](https://github.com/jonathanbarsky/Todo-App)
 
