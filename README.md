@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hola
 
 ## Sobre mi
 Soy un desarrollador frontend con React,
@@ -14,14 +14,14 @@ Soy un desarrollador frontend apasionado en el aprendizaje continuo,
 Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilidades técnicas.
 
 - [Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal)
-  ![](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png)
+  ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png)
 - [To-do app](https://github.com/jonathanbarsky/Todo-App)
-  ![](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png) 
+  ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png) 
 - [The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api)
-  ![](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png)  
+  ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png)  
 - [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
-- ![](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
+- ![|250](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
 
 ##Encuentrame en
 
-- ![https://www.linkedin.com/in/jonathan-barsky/](https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d)
+- [![](https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.linkedin.com/in/jonathan-barsky/)
