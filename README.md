@@ -25,7 +25,7 @@ Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilid
 
     ![thmdb](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png) 
 
--[Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
+- [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
  
    ![batatabit](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
 
