@@ -13,21 +13,14 @@ Soy un desarrollador frontend apasionado en el aprendizaje continuo,
 ## Mis Proyectos
 Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilidades técnicas.
 
-- [Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal)
+[Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal) | [To-do app](https://github.com/jonathanbarsky/Todo-App)
 
-    ![portafolio personal](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png)
+![portafolio personal](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/portafolio.png) | ![todo app](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png)
     
-- [To-do app](https://github.com/jonathanbarsky/Todo-App)
+[The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api) | [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
  
-    ![todo app](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png){width=300px}
-  
-- [The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api)
-  
-    ![thmdb](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png)
-  
-- [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
- 
-    ![batatabit](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
+![thmdb](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/the-moviedb.png) | ![batatabit](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/batabit.png)
+    
 
 ##Puedes encontrarme en
 
