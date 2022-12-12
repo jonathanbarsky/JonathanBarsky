@@ -19,7 +19,7 @@ Me gusta hacer proyectos full responsive y que me desafien a mejorar mis habilid
     
 - [To-do app](https://github.com/jonathanbarsky/Todo-App)
  
-    ![todo app](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png)
+    ![todo app](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/to-do-app.png){width=500px}
   
 - [The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api)
   
