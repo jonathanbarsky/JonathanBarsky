@@ -1,4 +1,4 @@
-## Hola
+## Hola! Soy #Jonathan Barsky
 
 ## Sobre mi
 Soy un desarrollador frontend con React. Me gusta desarrollar mis proyectos de forma modularizada y los estilos implementarlos con una manera de mejora progresiva, mobile first a pantallas desktop.
