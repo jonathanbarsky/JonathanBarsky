@@ -1,4 +1,4 @@
-![Banner con mi nombre, Barsky Jonathan y las tecnologías que conozco](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/Home.png)
+![Banner con mi nombre, Barsky Jonathan y las tecnologías que conozco](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/header.png)
 
 ## Sobre mi
 Soy Frontend Developer con React. Me gusta desarrollar proyectos de forma modularizada e implementar los estilos con una manera de mejora progresiva, mobile first a pantallas desktop.
