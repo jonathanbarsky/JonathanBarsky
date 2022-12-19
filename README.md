@@ -1,7 +1,7 @@
-# Hola! Soy Jonathan Barsky
+![Banner con mi nombre, Barsky Jonathan y las tecnologías que conozco](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/Home.png)
 
 ## Sobre mi
-Soy un desarrollador frontend con React. Me gusta desarrollar proyectos de forma modularizada e implementar los estilos con una manera de mejora progresiva, mobile first a pantallas desktop.
+Soy Frontend Developer con React. Me gusta desarrollar proyectos de forma modularizada e implementar los estilos con una manera de mejora progresiva, mobile first a pantallas desktop.
 
 Hago sitios web dinamicos gracias a la manipulacion del DOM y al consumo de API rest, además conozco como mejorar la UX por medio de los esqueletos de carga (loading skeletons) y del lazy load (para mejorar los tiempos de carga).
 
