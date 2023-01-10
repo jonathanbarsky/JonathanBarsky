@@ -47,7 +47,9 @@ Además estoy familiarizado con la metodologia de trabajo Scrum, agíle y utiliz
 
 ## Puedes acceder a mi CV.
 
-Mi [Curriculum](https://github.com/jonathanbarsky/JonathanBarsky/raw/main/CV%20Barsky%20Jonathan.pdf) en formato PDF.
+Mi [Curriculum](https://github.com/jonathanbarsky/JonathanBarsky/raw/main/CV%20Barsky%20Jonathan.pdf) es Español en formato PDF.
+
+Mi [Curriculum](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/CV%20English%20Barsky%20Jonathan.pdf) es Inglés en formato PDF.
 
 ## Puedes encontrarme en:
 
