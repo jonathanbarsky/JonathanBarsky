@@ -20,10 +20,6 @@ Me gusta hacer proyectos completamente responsive y que además me desafien a me
 - [Portafolio-personal](https://github.com/jonathanbarsky/portafolio-personal) 
 
     [![portafolio personal](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/portafolio.png)](https://jonathanbarsky.github.io/portafolio-personal/)
-
-- [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
- 
-   [![batatabit](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/Batatabit.png)](https://jonathanbarsky.github.io/Batatabit_proyecto/)
     
 - [The Movie DB](https://github.com/jonathanbarsky/the-movieDB-api) 
 
@@ -31,8 +27,13 @@ Me gusta hacer proyectos completamente responsive y que además me desafien a me
 
 - [To-do app](https://github.com/jonathanbarsky/Todo-App)
 
-    [![todo app](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/To-Do%20app.png)](https://jonathanbarsky.github.io/Todo-App/)
+    [![todo app](https://github.com/jonathanbarsky/portafolio-personal/blob/main/src/images/Todo_app.png)](https://jonathanbarsky.github.io/Todo-App/)
     
+- [Batatabit](https://github.com/jonathanbarsky/Batatabit_proyecto)
+ 
+   [![batatabit](https://github.com/jonathanbarsky/JonathanBarsky/blob/main/Batatabit.png)](https://jonathanbarsky.github.io/Batatabit_proyecto/)
+   
+   
 ## Otros Frameworks y herramientas que utilizo 
  ![](https://camo.githubusercontent.com/839ef4d02b5457b425e2fa7378309ef096e01b604b093d57ce55245562e59eb8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5765627061636b26636f6c6f723d323232323232266c6f676f3d5765627061636b266c6f676f436f6c6f723d384444364639266c6162656c3d) ![](https://camo.githubusercontent.com/fd60ad1cae960eb3117e20dc1305b39f820004bf601b0e00ea032eccb9897dfd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6e706d26636f6c6f723d434233383337266c6f676f3d6e706d266c6f676f436f6c6f723d464646464646266c6162656c3d) ![](https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d) ![](https://camo.githubusercontent.com/e817caabb0fdceee7c541f02e7da50553b694514e9a5d71cdf66a2adfbaa3148/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6f74696f6e26636f6c6f723d303030303030266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d464646464646266c6162656c3d) ![](https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d)
  
